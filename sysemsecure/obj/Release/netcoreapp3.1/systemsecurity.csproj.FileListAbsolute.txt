@@ -1,7 +1,0 @@
-/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Release/netcoreapp3.1/systemsecurity.csproj.AssemblyReference.cache
-/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Release/netcoreapp3.1/systemsecurity.GeneratedMSBuildEditorConfig.editorconfig
-/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Release/netcoreapp3.1/systemsecurity.AssemblyInfoInputs.cache
-/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Release/netcoreapp3.1/systemsecurity.AssemblyInfo.cs
-/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Release/netcoreapp3.1/systemsecurity.csproj.CoreCompileInputs.cache
-/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Release/netcoreapp3.1/systemsecurity.dll
-/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Release/netcoreapp3.1/systemsecurity.pdb
