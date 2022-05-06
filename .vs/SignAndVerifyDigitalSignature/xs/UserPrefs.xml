@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{6CE1D091-B3D0-4B17-9B10-FC0FF0C0EDDF}|Default">
+  <MonoDevelop.Ide.ItemProperties.SignAndVerifyDigitalSignature PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SHA256MessageAuthentication/Program.cs">
+    <Files>
+      <File FileName="SHA256MessageAuthentication/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SignAndVerifyDigitalSignature" expanded="True">
+            <Node name="SHA256MessageAuthentication" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SHA256MessageAuthentication FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
