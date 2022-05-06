@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignAndVerifyDigitalSignature", "SignAndVerifyDigitalSignature\SignAndVerifyDigitalSignature.csproj", "{6CE1D091-B3D0-4B17-9B10-FC0FF0C0EDDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHA256MessageAuthentication", "SHA256MessageAuthentication\SHA256MessageAuthentication.csproj", "{D017729B-7DD7-48D6-868E-C6F69EAECC53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CE1D091-B3D0-4B17-9B10-FC0FF0C0EDDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CE1D091-B3D0-4B17-9B10-FC0FF0C0EDDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CE1D091-B3D0-4B17-9B10-FC0FF0C0EDDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CE1D091-B3D0-4B17-9B10-FC0FF0C0EDDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D017729B-7DD7-48D6-868E-C6F69EAECC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D017729B-7DD7-48D6-868E-C6F69EAECC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D017729B-7DD7-48D6-868E-C6F69EAECC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D017729B-7DD7-48D6-868E-C6F69EAECC53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86B56949-AD24-4C83-8D28-7F6E1BC92890}
+	EndGlobalSection
+EndGlobal
