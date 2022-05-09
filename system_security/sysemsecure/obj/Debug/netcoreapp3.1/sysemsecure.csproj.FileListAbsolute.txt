@@ -1,0 +1,13 @@
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Debug/netcoreapp3.1/sysemsecure.csproj.AssemblyReference.cache
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Debug/netcoreapp3.1/sysemsecure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Debug/netcoreapp3.1/sysemsecure.AssemblyInfoInputs.cache
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Debug/netcoreapp3.1/sysemsecure.AssemblyInfo.cs
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Debug/netcoreapp3.1/sysemsecure.csproj.CoreCompileInputs.cache
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/bin/Debug/netcoreapp3.1/sysemsecure.deps.json
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/bin/Debug/netcoreapp3.1/sysemsecure.runtimeconfig.json
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/bin/Debug/netcoreapp3.1/sysemsecure.runtimeconfig.dev.json
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/bin/Debug/netcoreapp3.1/sysemsecure.dll
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/bin/Debug/netcoreapp3.1/sysemsecure.pdb
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Debug/netcoreapp3.1/sysemsecure.dll
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Debug/netcoreapp3.1/sysemsecure.pdb
+/Users/senaguvercinoglu/Projects/sysemsecure/sysemsecure/obj/Debug/netcoreapp3.1/sysemsecure.genruntimeconfig.cache
